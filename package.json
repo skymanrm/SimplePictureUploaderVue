@@ -1,7 +1,7 @@
 {
   "name": "simplepictureuploader",
   "version": "1.0.0",
-  "description": "Simple Picture Uploader with scaling, framing",
+  "description": "Simple Picture Uploader for Vue with scaling, framing",
   "author": "Andrey Fanyagin <skymanrm@gmail.com>",
   "private": true,
   "scripts": {

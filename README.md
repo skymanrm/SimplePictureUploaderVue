@@ -1,8 +1,14 @@
-# pictureuploader
+# Simple Picture Uploader for Vue
 
-> Simple Picture Uploader with scaling, framing
+![Example](https://github.com/skymanrm/SimplePictureUploaderVue/blob/master/static/example.gif?raw=true)
 
-Working with v-model. Support drag-drop. Allow user to scale / position selected image before uploading to server. 
+Features
+
+* Drag drop support
+* Preview
+* Scaling
+* Framing
+* Working with v-model 
 
 ## Build Setup
 
