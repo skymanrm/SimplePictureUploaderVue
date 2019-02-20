@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Simple Picture Uploader for Vue with scaling, framing",
   "author": "Andrey Fanyagin <skymanrm@gmail.com>",
-  "private": true,
   "scripts": {
     "dev": "webpack-dev-server --config build/webpack.dev.conf.js",
     "build": "webpack --config build/webpack.build.conf.js",

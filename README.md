@@ -10,6 +10,12 @@ Features
 * Framing
 * Working with v-model 
 
+## Installation via npm
+
+``` bash
+npm install simplepictureuploader --save
+```
+
 ## Build Setup
 
 ``` bash
