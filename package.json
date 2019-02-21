@@ -1,6 +1,6 @@
 {
   "name": "simplepictureuploader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple Picture Uploader for Vue with scaling, framing",
   "main": "dist/vue-simplepictureuploader.js",
   "author": "Andrey Fanyagin <skymanrm@gmail.com>",
