@@ -5,7 +5,10 @@ module.exports = {
   entry: path.resolve(__dirname + '/../src/SimplePictureUploader.vue'),
   output: {
     path: path.resolve(__dirname + '/../dist/'),
-    filename: 'vue-simplepictureuploader.js'
+    filename: 'vue-simplepictureuploader.js',
+    libraryTarget: 'umd',
+    library: 'vue-simplepictureuploader',
+    umdNamedDefine: true
   },
   module: {
     loaders: [
@@ -36,6 +39,6 @@ module.exports = {
     })
   ],
   externals: {
-    // moment: 'lodash.thorthle'
+    moment: 'lodash.thorthle'
   },
 };
